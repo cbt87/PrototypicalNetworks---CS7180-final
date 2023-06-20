@@ -1,7 +1,7 @@
 
 # CS 7180 Final Project: Few-Shot Visual Classification with Prototypical Networks
 
-**Note: See [prototypical_networks.ipynb](https://github.com/cbt87/PrototypicalNetworks---CS7180-final/blob/main/prototypical_networks.ipynb) for a full description**
+**Note: See [prototypical_networks.ipynb](https://github.com/cbt87/PrototypicalNetworks---CS7180-final/blob/main/prototypical_networks.ipynb) for a full description and python code**
 
 First, I followed a [few shot learning tutorial](https://github.com/sicara/easy-few-shot-learning/blob/master/notebooks/my_first_few_shot_classifier.ipynb) by Sicara to create a Prototypical Networks model for image classification on the Omniglot datast. 
 
