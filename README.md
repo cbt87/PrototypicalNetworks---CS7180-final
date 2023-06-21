@@ -17,3 +17,8 @@ Next, I wrote a function to test the effect of the number of shots on accuracy f
 Unfortunately, the Omniglot dataset only has 20 images per class in total, so it can not be visualized together with the other datasets. However, even in a 5-shot setting, the model is better at predicting classes for the Omniglot dataset(~86% accuracy) than it is for the other datasets when they were provided with 40 or more support images. This is perhaps not too surprising, however, given the relative simplicity of the Omniglot images compared to the CIFAR10 and STL10 images.
 
 <img src="figs/n_shot_fig.jpg">
+
+
+# Acknowledgments
+
+[https://github.com/sicara/easy-few-shot-learning](https://github.com/sicara/easy-few-shot-learning)
